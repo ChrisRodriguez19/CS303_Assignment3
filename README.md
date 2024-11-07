@@ -24,4 +24,4 @@ runs the find last occurrence function, finds the target number in the vector, t
 
 ![image](https://github.com/user-attachments/assets/f50cbfa5-5434-48ea-9fc8-d84783d301a4)
 
-The thrid part of the code answers Question 3, starts off by creating a list that is 5 numbers long then shows the list, then sorts the list and displays it by putting it in order from least to greatest
+The third part of the code answers Question 3, starts off by creating a list that is 5 numbers long then shows the list, then sorts the list and displays it by putting it in order from least to greatest
